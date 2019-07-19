@@ -10,7 +10,7 @@ project(${PROJECT_NAME})
 # Set up the compiler flags
 ########################################
 set(CMAKE_CXX_FLAGS "-g -Wall -Wpedantic -Wextra -Wconversion")
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
 ########################################
 # Define include directories
