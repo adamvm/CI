@@ -32,7 +32,7 @@
 *.app
 
 # Jetbrains IDE config
-idea/*
+.idea/*
 
 # CMake build directory
 cmake-build-debug/*
